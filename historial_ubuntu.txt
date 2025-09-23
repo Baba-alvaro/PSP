@@ -1,0 +1,3 @@
+export HISTSIZE=10000
+nano ~/.bashrc
+shutdown 0
